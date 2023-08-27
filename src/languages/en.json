@@ -1,0 +1,26 @@
+{
+    "header": {
+        "title": "Multi Lingual App",
+        "chooseLanguage": "Select Language"
+    },
+    "login": {
+        "title": "Login",
+        "userName": "Email",
+        "password": "Password",
+        "otp": "OTP",
+        "submit": "Submit"
+    },
+    "signUp": {
+        "title": "Signup",
+        "userName": "Email",
+        "password": "Password",
+        "otp": "OTP",
+        "mobile": "Mobile Number",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "submit": "Submit"
+    },
+    "dashboard": {
+        "title": "Dashboard"
+    }
+}

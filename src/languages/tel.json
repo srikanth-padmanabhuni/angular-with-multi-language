@@ -1,0 +1,26 @@
+{
+    "header": {
+        "title": "బహుళ భాషా యాప్",
+        "chooseLanguage": "భాషను ఎంచుకోండి"
+    },
+    "login": {
+        "title": "ప్రవేశించండి",
+        "userName": "ఇమెయిల్",
+        "password": "పాస్వర్డ్",
+        "otp": "రహస్య పిన్",
+        "submit": "సమర్పించండి"
+    },
+    "signUp": {
+        "title": "చేరడం",
+        "userName": "ఇమెయిల్",
+        "password": "పాస్వర్డ్",
+        "otp": "రహస్య పిన్",
+        "mobile": "మొబైల్ నంబర్",
+        "firstName": "మి పేరు",
+        "lastName": "ఇంటి పేరు",
+        "submit": "సమర్పించండి"
+    },
+    "dashboard": {
+        "title": "డాష్బోర్డ్"
+    }
+}

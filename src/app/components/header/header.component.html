@@ -1,0 +1,13 @@
+<mat-toolbar>
+    <span>{{ 'title' | translate : screen : languageForm.get('language')?.value }}</span>
+    <span class="example-spacer"></span>
+    <form [formGroup]="languageForm">
+        <mat-form-field class="language-selector">
+            <mat-label>{{ 'chooseLanguage' | translate : screen : languageForm.get('language')?.value }}</mat-label>
+            <mat-select formControlName="language" (selectionChange)="changeLanguage()">
+                <mat-option *ngFor="let language of languages" [value]="language.value">{{language.label}}</mat-option>
+            </mat-select>
+        </mat-form-field>
+    </form>
+</mat-toolbar>
+  
